@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1566030202324.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1426873170",
+    "id" : "A8E28931",
+    "lastKnownWriteTime" : 1566036441,
+    "last_content_update" : 1566036441817,
+    "path" : "~/R projects/House Price Prediction/main script.R",
+    "project_path" : "main script.R",
+    "properties" : {
+        "cursorPosition" : "46,14",
+        "scrollLine" : "36",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

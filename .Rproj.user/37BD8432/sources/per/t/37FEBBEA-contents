@@ -1,0 +1,28 @@
+           Id    MSSubClass      MSZoning   LotFrontage       LotArea        Street 
+            0             0             0             0             0             0 
+        Alley      LotShape   LandContour     Utilities     LotConfig     LandSlope 
+            0             0             0             0             0             0 
+ Neighborhood    Condition1    Condition2      BldgType    HouseStyle   OverallQual 
+            0             0             0             0             0             0 
+  OverallCond     YearBuilt  YearRemodAdd     RoofStyle      RoofMatl   Exterior1st 
+            0             0             0             0             0             0 
+  Exterior2nd    MasVnrType    MasVnrArea     ExterQual     ExterCond    Foundation 
+            0             8             0             0             0             0 
+     BsmtQual      BsmtCond  BsmtExposure  BsmtFinType1    BsmtFinSF1  BsmtFinType2 
+           37            37            38            37             0            38 
+   BsmtFinSF2     BsmtUnfSF   TotalBsmtSF       Heating     HeatingQC    CentralAir 
+            0             0             0             0             0             0 
+   Electrical      1stFlrSF      2ndFlrSF  LowQualFinSF     GrLivArea  BsmtFullBath 
+            1             0             0             0             0             0 
+ BsmtHalfBath      FullBath      HalfBath  BedroomAbvGr  KitchenAbvGr   KitchenQual 
+            0             0             0             0             0             0 
+ TotRmsAbvGrd    Functional    Fireplaces   FireplaceQu    GarageType   GarageYrBlt 
+            0             0             0           690            81             0 
+ GarageFinish    GarageCars    GarageArea    GarageQual    GarageCond    PavedDrive 
+           81             0             0            81            81             0 
+   WoodDeckSF   OpenPorchSF EnclosedPorch     3SsnPorch   ScreenPorch      PoolArea 
+            0             0             0             0             0             0 
+       PoolQC         Fence   MiscFeature       MiscVal        MoSold        YrSold 
+         1453          1179          1406             0             0             0 
+     SaleType SaleCondition     SalePrice 
+            0             0             0 
